@@ -5,7 +5,7 @@ $(function () {
         slidesToShow: 4,
         slidesToScroll: 1,
         variableWidth: true,
-        autoplay:false,
+        autoplay:true,
         autoplaySpeed:1500
     });
 });
