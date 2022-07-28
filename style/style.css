@@ -511,6 +511,9 @@ input {
     gap: 60px;
     margin-bottom: 80px;
 }
+.footer__list-content {
+    min-width: 260px;
+}
 .footer__item-main {
     transition: all 0.3s;
 }
@@ -568,6 +571,7 @@ input {
     margin-right: 15px;
 
 }
+
 .footer__link-geo::before {
     content: url(../img/footer-geo.svg);
     margin-right: 15px;
