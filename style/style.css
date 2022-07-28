@@ -3,6 +3,10 @@
     --accent-color:#4985FF;
     --grey-color:#999999;
 }
+html {
+    scroll-behavior: smooth;
+
+}
 body {
     font-family: 'Montserrat', sans-serif;
 }
