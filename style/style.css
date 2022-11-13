@@ -10,6 +10,7 @@ html {
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
 .header {
 background-image: url(../img/bg-header.jpg);
 background-size: cover;
@@ -442,9 +443,7 @@ outline: 1px solid #4985FF;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     color: var(--header-white-color);
 }
-.review__video {
-    
-}
+
 .review__video iframe {
     display: block;
     margin: 0 auto;
